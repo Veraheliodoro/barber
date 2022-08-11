@@ -1,0 +1,109 @@
+/**A*/
+.align-items-center{
+    align-items: center;
+}
+/**B*/
+.box_shadow_none{
+    box-shadow: none;
+}
+.border_none{
+    border: none;
+}
+.backgroud_blue{
+    background-color: rgb(0, 95, 113);
+}
+.backgroud_yelloy{
+    background-color: rgb(245, 240, 218);
+}
+/**c*/
+.cursor_pointer{
+    cursor: pointer;
+}
+.color_white{
+    color: white;
+}
+.color_black{
+    color: black;
+}
+/**D*/
+.display_flex{
+    display: flex;
+}
+/**E*/
+/**F*/
+.font_family_Times{
+    font-family: 'Times New Roman', Times, serif;
+}
+.font_family_Impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.font-size-20px{
+    font-size: 20px;
+}
+.flex-direction-colon{
+    flex-direction: column;
+}
+/**G*/
+/**H*/
+/**I*/
+/**j*/
+.justify_content_space{
+    justify-content: space-between;
+}
+.justify_content_center{
+    justify-content: center;
+}
+/**K*/
+/**L*/
+.list-style-none{
+    list-style-type: none;
+}
+.logo-width{
+    width: 100px;
+}
+
+/**M*/
+.margin-auto{
+    margin: auto;
+}
+.margin_zero{
+    margin: 0px;
+}
+/**N*/
+/**O*/
+/**P*/
+.p-relative{
+    position: relative;
+}
+.padding-auto{
+    padding: auto;
+}
+/**Q*/
+/**R*/
+/**S*/
+/**T*/
+.text-alig-center{
+    text-align: center;
+}
+.text-alig-rignt{
+    text-align: right;
+}
+.text_decoration_none{
+    text-decoration: none;
+}
+.text-style_none{
+    text-decoration-style: none;
+}
+/**U*/
+/**V*/
+/**W*/
+.width_100{
+    width: 100%;
+}
+.width_90{
+    width: 90%;
+}
+/**X*/
+/**Y*/
+/**Z*/
+/**Navlogo*/
