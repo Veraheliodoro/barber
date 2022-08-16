@@ -245,4 +245,13 @@ footer ul li a{
     width: 40px;
     padding: 0px 10px 0px 10px;
 }
-   
+.newdiv{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}
+#new1div{
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 50px;
+}
